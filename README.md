@@ -3,10 +3,11 @@
   <img src="Banner.jpg" alt="Banner" style="width: 100vw; max-width: 100%; border-radius: 0;" />
 </div>
 
-<!-- Name & Title -->
-<h1 align="center">Hi, I'm <span style="color:#0A66C2;">Souvik Rana</span> 👋</h1>
-<p align="center">Aspiring Software Engineer | Web Developer | Data Enthusiast</p>
+<!-- Animated Typing Name & Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Souvik+Rana+👋;Aspiring+Software+Engineer;Web+Developer;Data+Enthusiast" alt="Typing SVG" />
 
+</p>
 <!-- Social Links -->
 <p align="center">
   <a href="https://github.com/Souvik-Rana">
