@@ -3,11 +3,16 @@
   <img src="SOUVIK RANA BANNER.png" alt="Banner" style="width: 100vw; max-width: 100%; border-radius: 0;" />
 </div>
 
+<!-- Profile Summary Paragraph -->
+<p align="center">
+  <strong>I’m a passionate <b>Software Engineer</b></strong> who thrives at the intersection of full-stack development, AI/ML, IoT/embedded systems, and cybersecurity. Over the last few years, I’ve built end-to-end solutions that blend sleek user experiences with robust back-end architectures and intelligent data pipelines.
+</p>
+
 <!-- Animated Typing Name & Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=B8CDD0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Souvik+Rana+👋;Aspiring+Software+Engineer;Web+Developer;Data+Enthusiast" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=B8CDD0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Souvik+Rana+👋;Aspiring+Software+Engineer;Web+Developer;AI+Enthusiast" alt="Typing SVG" />
 </p>
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://github.com/Souvik-Rana">
