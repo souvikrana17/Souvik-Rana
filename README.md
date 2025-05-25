@@ -1,6 +1,6 @@
 <!-- Full-Screen Banner -->
 <div align="center" style="margin: 0; padding: 0;">
-  <img src="Banner.jpg" alt="Banner" style="width: 100vw; max-width: 100%; border-radius: 0;" />
+  <img src="SOUVIK RANA BANNER.png" alt="Banner" style="width: 100vw; max-width: 100%; border-radius: 0;" />
 </div>
 
 <!-- Animated Typing Name & Title -->
