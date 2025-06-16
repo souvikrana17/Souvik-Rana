@@ -1,6 +1,6 @@
 <!-- Full-Screen Banner -->
 <div align="center" style="margin: 0; padding: 0;">
-  <img src="SOUVIK RANA BANNER.jpg" alt="Banner" style="width: 100vw; max-width: 100%; border-radius: 0;" />
+  <<img src="SOUVIK%20RANA%20BANNER.jpg" alt="Banner" ... /> style="width: 100vw; max-width: 100%; border-radius: 0;" />
 </div>
 
 <!-- Profile Summary Paragraph -->
