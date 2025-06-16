@@ -15,16 +15,16 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/Souvik-Rana">
+  <a href="https://github.com/souvikrana17">
     <img src="https://img.shields.io/badge/GitHub-Souvik--Rana-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/souvik-rana-sr17/">
+  <a href="https://linkedin.com/in/souvikrana17/">
     <img src="https://img.shields.io/badge/LinkedIn-Souvik_Rana-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rana.souvik17@gmail.com">
     <img src="https://img.shields.io/badge/Email-rana.souvik17%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://souvik-rana.vercel.app/">
+  <a href="https://souvikrana17.vercel.app/">
     <img src="https://img.shields.io/badge/Website-souvik--rana.vercel.app-purple?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
 </p>
